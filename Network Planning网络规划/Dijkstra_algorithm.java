@@ -2,7 +2,7 @@ package datastructure;
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-public class Dijkstra_shortest_path{
+public class Dijkstra_algorithm{
 	int min_distance(int dist[],boolean set[]) {
 		int min=Integer.MAX_VALUE,min_vertex=-1;
 		int l=dist.length;
@@ -51,7 +51,7 @@ public class Dijkstra_shortest_path{
 				{0, 50, 20, 0, 20, 2},
 				{0, 10, 33, 20, 0, 1},
 				{0, 0, 0, 2, 1, 0}};
-	Dijkstra_shortest_path u=new Dijkstra_shortest_path();
+	Dijkstra_algorithm u=new Dijkstra_algorithm();
 	u.dijkstra(matrix,0);
 }
 }
