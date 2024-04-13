@@ -7,4 +7,4 @@ The convex hull of a given set **X** may be defined as:
 2.The intersection of all convex sets containing **X**
 3.The set of all convex combinations of points in **X**
 4.The union of all simplices with vertices in **X**
-![https://upload.wikimedia.org/wikipedia/commons/d/de/ConvexHull.svg]
+![image](https://upload.wikimedia.org/wikipedia/commons/d/de/ConvexHull.svg)
