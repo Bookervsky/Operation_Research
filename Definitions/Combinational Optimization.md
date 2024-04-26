@@ -1,0 +1,3 @@
+# Combinational Optimization
+Combinatorial optimization is a subfield of mathematical optimization that consists of finding an optimal object from a finite set of objects, where **the set of feasible solutions is discrete** or can be reduced to a discrete set.
+Some combinatorial problems can be written as linear programs, provided that one adds the additional requirement that the variables only take integer value, and luckily linear programs can be solved in polynominal time.
